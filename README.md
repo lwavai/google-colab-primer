@@ -1,2 +1,2 @@
 # google-colab-primer
-Repository including the Google Colab Welcome and some tutorials
+Repository including the Google Colab Welcome jupyter fole
